@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a175f9a.chunk.css",
+    "main.js": "/static/js/main.74b10ac9.chunk.js",
+    "main.js.map": "/static/js/main.74b10ac9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.ab5e1664.chunk.js": "/static/js/2.ab5e1664.chunk.js",
+    "static/js/2.ab5e1664.chunk.js.map": "/static/js/2.ab5e1664.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5a175f9a.chunk.css.map": "/static/css/main.5a175f9a.chunk.css.map",
+    "static/js/2.ab5e1664.chunk.js.LICENSE.txt": "/static/js/2.ab5e1664.chunk.js.LICENSE.txt",
+    "static/media/Octocat.237e2214.png": "/static/media/Octocat.237e2214.png",
+    "static/media/PixelArt.f71764ec.gif": "/static/media/PixelArt.f71764ec.gif",
+    "static/media/ToDoList.c3b8388c.gif": "/static/media/ToDoList.c3b8388c.gif",
+    "static/media/linkedin1.34aa92dd.png": "/static/media/linkedin1.34aa92dd.png",
+    "static/media/pessoal.69164ee2.jpg": "/static/media/pessoal.69164ee2.jpg",
+    "static/media/react.c58f7d3b.png": "/static/media/react.c58f7d3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/js/2.ab5e1664.chunk.js",
+    "static/css/main.5a175f9a.chunk.css",
+    "static/js/main.74b10ac9.chunk.js"
+  ]
+}
