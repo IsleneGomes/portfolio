@@ -9,7 +9,7 @@ export default function Header() {
     <header className="header-card">
       <img className="img-pessoal" src={pessoal} alt="logo comum de </>" width="90px" />
       <nav className="nav-header">
-        <Link to="/">
+        <Link to="/portfolio">
           <button type="button">HOME</button>
         </Link>
         <Link to="/curriculo">
