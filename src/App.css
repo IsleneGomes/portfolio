@@ -169,13 +169,13 @@ a:hover {
 }
 
 .contato {
-  align-items: center;
   background-color: #cedce0;
   color: #301D49;
-  font-size: 90%;
   min-height: 430px;
-  padding: 20px 20px;
   text-align: justify;
+  align-items: center;
+  font-size: 90%;
+  padding: 20px 20px;
 }
 
 
